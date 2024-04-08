@@ -1,2 +1,5 @@
-# .github
-I2Fry/.github is a ✨special ✨ repository that you can use to add README.md to your public organization profile, visible to anyone.
+# l2Fry
+Welcome
+We are working on these projects:
+https://github.com/I2Fry/zoo-clicker-ian2 - TESTING
+[https://github.com/FryGuy93/zoo-clicker](https://github.com/FryGuy93/zoo-clicker) - TO BE CHANGED
